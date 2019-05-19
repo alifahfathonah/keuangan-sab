@@ -1,0 +1,25 @@
+Pg
+B. observasi 350,000
+Asuransi 100,000
+Komite 150,000
+Spp jul 600,000
+Prog pembljrn 2,200,000
+Investasi 9,750,000
+[10:52, 10/4/2016] Herawati: Tk a  11,900,000
+
+Tka
+B. observasi 350,000
+Asuransi 100,000
+Komite 150,000
+Spp jul 600,000
+Prog pembljrn 2,200,000
+Investasi 8,500,000
+[10:55, 10/4/2016] Herawati: Tk a  9,650,000
+
+Tka - lama
+B. observasi 350,000
+Asuransi 100,000
+Komite 150,000
+Spp jul 600,000
+Prog pembljrn 2,200,000
+Investasi 6,250,000

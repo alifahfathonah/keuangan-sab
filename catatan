@@ -1,0 +1,13 @@
+[OK] - jumlah hari efektif perprogram dan level
+[OK] - kwitansi pembayaran via bank..dan dikirim via email dan WA
+- tiap semester rekap pembayaran org tua
+	- per range-bulan
+- tabungan di export seluruh transaksi per anak
+	- bulanan dikiri ke orang tua
+- grafik pengeluaran per program
+- rincian pengeluaran di input oleh bagian program berdasarkan no. kwitansi
+- tambah 1 row tunggakan tahun ajaran sebelumnya
+- transaksi pengeluaran penerima dibuat 2 tipe input
+- data vendor
+- validasi pengeluaran dengan bukti fisik dengan nomor
+- halaman orang tua front end
